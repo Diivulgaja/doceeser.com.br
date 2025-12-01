@@ -1,0 +1,15 @@
+
+{
+  "name": "cardapio-doces-backend-examples",
+  "version": "1.0.0",
+  "description": "Exemplos de backend para integrar Mercado Pago e Stripe ao cardápio de doces",
+  "main": "index.js",
+  "scripts": {
+    "start:mp": "node server/mercadopago_server.js",
+    "start:stripe": "node server/stripe_server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
